@@ -6,5 +6,8 @@
 -Vetores
 -Matrizes
 -Bibliotecas (define e include)
+-Struct
+-Ponteiros
+-++Bibliotecas
 
 Aprendizado acompanhado na linguagem em C.
